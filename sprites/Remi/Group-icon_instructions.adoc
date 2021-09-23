@@ -1,0 +1,38 @@
+= How to Get Weapon Group Icons Done Easily
+Rémi <Remi#5425>
+v0.1, 2021-09-22
+
+This document presents a way to easily create group icons for Forts weapons.
+
+To make a submission, you must at least read the <<How?>> section of this document. The rest is mostly lore.
+
+== What?
+
+You know the little icons at the top left when you group some weapons? Turns out they're kinda hard to make by hand, and you need to make four of them. Thankfully, it's a task easy for a reusable template, so I made it once and now you can focus only on the design.
+
+== Why?
+
+I tried making a group icon for a wepon and accidentally future proofed it so now it can generate any reasonable group icon. Since I'm using mac-only proprietary image editing software with its own project file format, it would be inconvenient to share the template around. Thankfully, it's so well made that a decently curated submission should take me no more than 10 minutes start to finish so it's all good I'll just do it myself.
+
+== Who?
+
+You want it? It's yours my friend, as long as you have a decent submission.
+
+== How?
+
+Send me a silouhetteand the template will convert it into a clean looking icon via an arrangement of masks, filters and ripped game sprites.
+
+=== Requirements
+
+* Black on white (black looks "carved")
+* No big grayscale parts, edges are fine
+* You can send in any resolution but be mindful it ends up in 28 x 28
+* Do not crop into a circle yourself, just let all the excess white
+
+=== Design Tips
+
+Stylized icons of a bullet, chamber or barrel works great if it's unique and easily associated with the matching weapon. Diagonals and circles look fine. As for everything, you can check the original Forts sprites as reference in data/ui/textures/groups/*.
+
+=== Example files
+
+Coming soon!
